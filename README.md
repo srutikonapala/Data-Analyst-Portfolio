@@ -10,11 +10,14 @@ Welcome to my Data Analyst Portfolio! This repository showcases my data analysis
 - Data Visualization
 - Dashboard Development
 - Business Analysis
+
 ##Projects
+
 ###1.E-commerce Sales Analysis
 - Build an interactive Power BI dashboard.
 - Analyzed sales, profit, product, and regional performance.
 - Created KPIs and business insights.
+
 **Tools Used:**
 - Power BI
 - Microsoft Excel
