@@ -1,0 +1,83 @@
+CREATE DATABASE Customer_analysis;
+USE Customer_analysis;
+CREATE TABLE Customers (
+Customer_id INT PRIMARY KEY,
+Name VARCHAR(50),
+country VARCHAR(20),
+Joindate date
+);
+INSERT INTO Customers
+VALUES
+(1,"Amit Kumar","India","2023-01-15"),
+(2,"Barun Singh","India","2023-03-10"),
+(3,"Charlie Das","USA","2023-02-20"),
+(4,"Deepa Roy","UK","2023-05-05"),
+(5,"Esha Sen","India","2023-07-01");
+SELECT * FROM Customers;
+customers
+CREATE TABLE Orders (
+OrderID INT PRIMARY KEY,
+Customer_id INT ,
+OrderDate DATE,
+Product VARCHAR(50),
+Category VARCHAR(50),
+Quantity INT ,
+Price INT 
+);
+INSERT INTO Orders
+VALUES
+(101,1,"2023-01-20","Laptop","Electronics",1,50000),
+(102,1,"2023-02-15","Mouse","Electronics",2,500),
+(103,2,"2023-03-12","T-shirt","Clothing",3,700),
+(104,3,"2023-02-25","Book","Stationery",5,200),
+(105,4,"2023-05-10","Headphones","Electronics",1,2000),
+(106,5,"2023-07-05","Notebook","Stationery",10,100),
+(107,2,"2023-04-01","Jeans","Clothing",2,1200),
+(108,3,"2023-03-05","Pen Set", "Stationery",3,150),
+(109,1,"2023-03-18","Keyboard","Electronics",1,1500),
+(110,5,"2023-07-10","Backpack","Accessories",1,800);
+SELECT * FROM Orders;
+
+SELECT c.Name, SUM(o.price*o.quantity) AS Total_revenue 
+FROM Customers as c
+INNER JOIN  Orders as o
+ON c.customer_id = o.customer_id
+GROUP BY c.Name;
+
+SELECT c.Name, COUNT(o.orderID) AS Total_orders 
+FROM Customers as c
+INNER JOIN Orders as o
+ON c.customer_id = o.customer_id
+GROUP BY c.Name;
+
+SELECT c.Name, AVG(o.price*o.quantity) AS Average_revenue
+ FROM Customers as c
+INNER JOIN Orders as o
+ON c.customer_id = o.customer_id 
+GROUP BY c.Name;
+
+SELECT c.name, SUM(o.price*o.quantity) AS Total_revenue 
+FROM Customers as c
+INNER JOIN Orders as o
+ ON c.customer_id = o.customer_id 
+ GROUP BY c.Name
+ ORDER BY Total_revenue DESC
+ LIMIT 3;
+
+SELECT MONTH(OrderDate), sum(price*quantity) AS Total_revenue
+ FROM Orders
+GROUP BY MONTH(OrderDate)
+ORDER BY MONTH(OrderDate) ASC;
+
+SELECT category, sum(price*quantity) AS Revenue
+ FROM Orders
+GROUP BY category
+ORDER BY Revenue DESC;
+
+
+
+
+
+
+
+
