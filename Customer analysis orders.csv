@@ -10,4 +10,3 @@ OrderID,Customer_id,OrderDate,Product,Category,Quantity,Price
 109,1,18-03-2023,Keyboard,Electronics,1,1500
 110,5,10-07-2023,Backpack,Accessories,1,800
 ,,,,,,
-Delete old dataset
