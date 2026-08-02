@@ -1,0 +1,12 @@
+OrderID,Customer_id,OrderDate,Product,Category,Quantity,Price
+101,1,20-01-2023,Laptop,Electronics,1,50000
+102,1,15-02-2023,Mouse,Electronics,2,500
+103,2,12-03-2023,T-shirt,Clothing,3,700
+104,3,25-02-2023,Book,Stationery,5,200
+105,4,10-05-2023,Headphones,Electronics,1,2000
+106,5,05-07-2023,Notebook,Stationery,10,100
+107,2,01-04-2023,Jeans,Clothing,2,1200
+108,3,05-03-2023,Pen Set,Stationery,3,150
+109,1,18-03-2023,Keyboard,Electronics,1,1500
+110,5,10-07-2023,Backpack,Accessories,1,800
+,,,,,,
