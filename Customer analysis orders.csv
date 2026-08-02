@@ -10,9 +10,4 @@ OrderID,Customer_id,OrderDate,Product,Category,Quantity,Price
 109,1,18-03-2023,Keyboard,Electronics,1,1500
 110,5,10-07-2023,Backpack,Accessories,1,800
 ,,,,,,
-1,Amit Kumar,India,2023-01-15
-2,Barun Singh,India,2023-03-1
-3,Charlie Das,USA,2023-02-20
-4,Deepa Roy,UK,2023-05-05
-5,Esha Sen,India,2023-07-01
-,,,,
+
