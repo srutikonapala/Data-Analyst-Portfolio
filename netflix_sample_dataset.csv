@@ -1,0 +1,201 @@
+show_id,type,title,director,country,release_year,rating,duration,genre
+s001,Movie,Final Echo 3,L. Martin,France,2012,TV-MA,110 min,Romance
+s002,Movie,Electric Dreams 1,J. Smith,United States,2011,TV-14,1 Season,Comedy
+s003,Movie,Cold Frontier 4,D. Brown,Japan,2024,TV-14,1 Season,Action
+s004,TV Show,Midnight Train 1,A. Sharma,Spain,2018,R,2 Seasons,Comedy
+s005,TV Show,Lost Kingdom 2,D. Brown,Germany,2010,R,110 min,Documentary
+s006,TV Show,Fading Light 5,J. Smith,Canada,2022,TV-MA,2 Seasons,Horror
+s007,Movie,Cold Frontier 1,R. Tanaka,India,2010,PG-13,110 min,Comedy
+s008,Movie,Crimson Road 5,D. Brown,Australia,2019,PG,3 Seasons,Thriller
+s009,Movie,Dark Streets 4,L. Martin,South Korea,2024,PG-13,110 min,Thriller
+s010,Movie,Burning Sky 5,R. Tanaka,Canada,2009,TV-14,100 min,Sci-Fi
+s011,TV Show,Final Echo 3,K. Lee,South Korea,2023,TV-14,3 Seasons,Documentary
+s012,TV Show,Hidden City 4,A. Sharma,Japan,2008,PG-13,100 min,Drama
+s013,TV Show,Last Horizon 5,S. Garcia,United Kingdom,2014,TV-14,2 Seasons,Action
+s014,Movie,Shadow Games 1,J. Smith,Australia,2020,TV-14,110 min,Documentary
+s015,TV Show,Shadow Games 3,K. Lee,United States,2009,PG,3 Seasons,Documentary
+s016,TV Show,Golden Empire 3,L. Martin,United States,2015,TV-14,2 Seasons,Drama
+s017,TV Show,Cold Frontier 2,L. Martin,United States,2017,PG,2 Seasons,Action
+s018,Movie,Ocean Depths 4,R. Tanaka,United Kingdom,2011,PG,100 min,Drama
+s019,TV Show,Shadow Games 2,R. Tanaka,United States,2022,TV-MA,110 min,Romance
+s020,Movie,Final Echo 4,K. Lee,India,2024,TV-14,3 Seasons,Horror
+s021,TV Show,Golden Empire 5,D. Brown,India,2021,R,110 min,Sci-Fi
+s022,TV Show,Dark Streets 4,A. Sharma,United Kingdom,2014,PG,2 Seasons,Sci-Fi
+s023,TV Show,Ocean Depths 2,K. Lee,Spain,2016,R,3 Seasons,Comedy
+s024,Movie,Winter Lake 1,L. Martin,Australia,2009,PG-13,3 Seasons,Thriller
+s025,Movie,Fading Light 2,M. Dubois,Japan,2020,R,110 min,Documentary
+s026,TV Show,Hidden City 4,K. Lee,Australia,2023,PG-13,2 Seasons,Horror
+s027,TV Show,Shadow Games 4,A. Sharma,Canada,2006,PG-13,110 min,Comedy
+s028,TV Show,Electric Dreams 3,J. Smith,France,2016,R,1 Season,Thriller
+s029,TV Show,Dark Streets 5,R. Tanaka,Japan,2012,PG-13,90 min,Horror
+s030,Movie,Dark Streets 3,D. Brown,Spain,2006,PG,2 Seasons,Sci-Fi
+s031,Movie,Final Echo 1,K. Lee,France,2021,R,2 Seasons,Documentary
+s032,TV Show,Fading Light 4,R. Tanaka,Australia,2007,TV-MA,3 Seasons,Thriller
+s033,TV Show,Midnight Train 2,S. Garcia,France,2021,PG,2 Seasons,Thriller
+s034,Movie,Last Horizon 1,K. Lee,France,2016,TV-MA,3 Seasons,Romance
+s035,Movie,Fading Light 3,D. Brown,France,2012,PG-13,1 Season,Documentary
+s036,Movie,Final Echo 1,K. Lee,South Korea,2006,R,1 Season,Sci-Fi
+s037,TV Show,Burning Sky 4,S. Garcia,France,2015,TV-MA,3 Seasons,Documentary
+s038,Movie,Electric Dreams 2,R. Tanaka,Japan,2024,TV-14,1 Season,Drama
+s039,TV Show,Ocean Depths 4,D. Brown,Germany,2005,PG-13,1 Season,Horror
+s040,TV Show,Parallel Worlds 1,J. Smith,France,2006,R,100 min,Drama
+s041,TV Show,Dark Streets 5,J. Smith,Japan,2018,TV-14,1 Season,Drama
+s042,Movie,Dark Streets 4,M. Dubois,France,2024,PG,90 min,Documentary
+s043,TV Show,Golden Empire 4,S. Garcia,Australia,2009,TV-14,3 Seasons,Comedy
+s044,TV Show,Silent Code 3,K. Lee,France,2011,PG,100 min,Thriller
+s045,TV Show,Cold Frontier 3,A. Sharma,South Korea,2017,PG,2 Seasons,Drama
+s046,Movie,Silent Code 2,S. Garcia,Japan,2005,PG-13,1 Season,Romance
+s047,Movie,Burning Sky 5,J. Smith,Japan,2016,PG-13,1 Season,Romance
+s048,TV Show,Dark Streets 3,J. Smith,Australia,2021,R,3 Seasons,Romance
+s049,TV Show,Winter Lake 4,D. Brown,Germany,2020,PG-13,100 min,Drama
+s050,TV Show,Hidden City 3,A. Sharma,Japan,2013,PG-13,2 Seasons,Horror
+s051,TV Show,Winter Lake 2,D. Brown,United States,2006,PG-13,110 min,Thriller
+s052,Movie,Cold Frontier 5,K. Lee,Canada,2014,PG-13,110 min,Comedy
+s053,Movie,Burning Sky 5,R. Tanaka,United States,2015,PG,100 min,Sci-Fi
+s054,Movie,Parallel Worlds 4,M. Dubois,Japan,2005,TV-MA,90 min,Sci-Fi
+s055,TV Show,Golden Empire 4,J. Smith,United Kingdom,2020,TV-MA,100 min,Action
+s056,TV Show,Hidden City 3,K. Lee,United Kingdom,2007,TV-14,1 Season,Action
+s057,TV Show,Ocean Depths 4,D. Brown,South Korea,2011,R,3 Seasons,Action
+s058,TV Show,Hidden City 5,J. Smith,United States,2006,TV-MA,1 Season,Drama
+s059,TV Show,Burning Sky 3,D. Brown,Canada,2018,PG,1 Season,Sci-Fi
+s060,Movie,Ocean Depths 3,S. Garcia,Spain,2019,TV-14,2 Seasons,Romance
+s061,Movie,Iron Justice 5,K. Lee,France,2017,TV-14,3 Seasons,Comedy
+s062,Movie,Fading Light 2,R. Tanaka,Canada,2007,TV-MA,110 min,Horror
+s063,Movie,Burning Sky 2,R. Tanaka,Germany,2007,TV-MA,110 min,Horror
+s064,Movie,Broken Signal 2,A. Sharma,United States,2007,R,110 min,Horror
+s065,Movie,Cold Frontier 2,D. Brown,Canada,2016,TV-14,3 Seasons,Documentary
+s066,Movie,Golden Empire 5,L. Martin,South Korea,2013,R,2 Seasons,Thriller
+s067,TV Show,Final Echo 5,L. Martin,Japan,2020,TV-14,2 Seasons,Drama
+s068,Movie,Midnight Train 3,J. Smith,Japan,2012,TV-MA,2 Seasons,Action
+s069,TV Show,Fading Light 4,S. Garcia,United Kingdom,2019,TV-MA,90 min,Thriller
+s070,TV Show,Shadow Games 4,R. Tanaka,United Kingdom,2023,TV-14,100 min,Documentary
+s071,Movie,Final Echo 4,S. Garcia,South Korea,2006,PG-13,100 min,Thriller
+s072,TV Show,Lost Kingdom 2,M. Dubois,Australia,2010,TV-14,1 Season,Horror
+s073,Movie,Midnight Train 2,A. Sharma,Japan,2023,PG-13,3 Seasons,Comedy
+s074,Movie,Hidden City 1,J. Smith,Japan,2016,TV-14,100 min,Sci-Fi
+s075,TV Show,Dark Streets 1,M. Dubois,South Korea,2012,PG-13,2 Seasons,Documentary
+s076,Movie,Midnight Train 5,R. Tanaka,South Korea,2011,TV-14,100 min,Thriller
+s077,Movie,Shadow Games 3,A. Sharma,United States,2012,PG-13,3 Seasons,Drama
+s078,Movie,Fading Light 1,S. Garcia,Canada,2013,PG-13,3 Seasons,Romance
+s079,TV Show,Iron Justice 2,K. Lee,India,2024,PG,90 min,Horror
+s080,Movie,Electric Dreams 5,D. Brown,Japan,2012,PG-13,3 Seasons,Comedy
+s081,Movie,Lost Kingdom 5,A. Sharma,France,2014,PG,100 min,Drama
+s082,Movie,Fading Light 4,K. Lee,Japan,2018,PG,90 min,Action
+s083,Movie,Neon Nights 2,S. Garcia,India,2016,PG,110 min,Sci-Fi
+s084,TV Show,Winter Lake 3,J. Smith,Germany,2005,PG-13,1 Season,Romance
+s085,TV Show,Winter Lake 3,M. Dubois,United States,2009,TV-14,1 Season,Horror
+s086,Movie,Silent Code 2,M. Dubois,South Korea,2014,PG-13,2 Seasons,Romance
+s087,TV Show,Cold Frontier 1,M. Dubois,Germany,2014,R,1 Season,Documentary
+s088,TV Show,Last Horizon 3,K. Lee,Germany,2006,PG-13,110 min,Horror
+s089,TV Show,Lost Kingdom 4,M. Dubois,Germany,2013,R,110 min,Thriller
+s090,Movie,Cold Frontier 3,R. Tanaka,United Kingdom,2022,TV-MA,1 Season,Horror
+s091,Movie,Last Horizon 5,D. Brown,Australia,2022,PG,110 min,Sci-Fi
+s092,TV Show,Broken Signal 1,S. Garcia,Australia,2013,PG-13,100 min,Action
+s093,Movie,Iron Justice 2,M. Dubois,United Kingdom,2024,TV-14,90 min,Romance
+s094,Movie,Neon Nights 5,J. Smith,Canada,2011,TV-MA,2 Seasons,Documentary
+s095,TV Show,Last Horizon 4,L. Martin,Australia,2008,PG-13,2 Seasons,Horror
+s096,TV Show,Iron Justice 3,K. Lee,Canada,2014,PG-13,100 min,Action
+s097,TV Show,Hidden City 1,K. Lee,Spain,2023,TV-14,2 Seasons,Sci-Fi
+s098,TV Show,Cold Frontier 1,S. Garcia,India,2011,PG-13,1 Season,Comedy
+s099,TV Show,Last Horizon 2,K. Lee,Australia,2011,PG-13,3 Seasons,Comedy
+s100,Movie,Broken Signal 1,R. Tanaka,Spain,2008,TV-MA,110 min,Horror
+s101,TV Show,Winter Lake 4,L. Martin,United Kingdom,2006,R,110 min,Comedy
+s102,Movie,Golden Empire 5,S. Garcia,Spain,2020,PG-13,110 min,Action
+s103,TV Show,Winter Lake 4,M. Dubois,Germany,2014,TV-14,100 min,Comedy
+s104,TV Show,Iron Justice 5,D. Brown,United States,2024,TV-14,2 Seasons,Thriller
+s105,Movie,Dark Streets 2,J. Smith,Germany,2014,PG,100 min,Drama
+s106,TV Show,Lost Kingdom 2,K. Lee,South Korea,2020,TV-14,90 min,Sci-Fi
+s107,TV Show,Burning Sky 2,J. Smith,United States,2016,TV-MA,3 Seasons,Action
+s108,Movie,Lost Kingdom 5,L. Martin,Canada,2024,TV-MA,3 Seasons,Romance
+s109,Movie,Final Echo 1,J. Smith,Canada,2009,TV-MA,1 Season,Sci-Fi
+s110,TV Show,Winter Lake 4,S. Garcia,India,2008,R,90 min,Documentary
+s111,Movie,Crimson Road 5,S. Garcia,Japan,2013,R,3 Seasons,Thriller
+s112,Movie,Ocean Depths 1,L. Martin,France,2015,R,2 Seasons,Romance
+s113,TV Show,Parallel Worlds 5,J. Smith,South Korea,2023,TV-14,100 min,Documentary
+s114,Movie,Final Echo 3,J. Smith,India,2013,PG,110 min,Comedy
+s115,Movie,Parallel Worlds 1,M. Dubois,Japan,2011,PG-13,2 Seasons,Documentary
+s116,Movie,Broken Signal 5,K. Lee,Australia,2016,PG-13,3 Seasons,Drama
+s117,Movie,Electric Dreams 3,D. Brown,Australia,2014,PG-13,100 min,Documentary
+s118,TV Show,Parallel Worlds 1,S. Garcia,Spain,2009,R,100 min,Action
+s119,TV Show,Crimson Road 4,J. Smith,United States,2005,PG,100 min,Documentary
+s120,TV Show,Golden Empire 3,A. Sharma,Spain,2008,PG,100 min,Horror
+s121,TV Show,Golden Empire 4,A. Sharma,India,2017,R,3 Seasons,Sci-Fi
+s122,TV Show,Silent Code 1,L. Martin,South Korea,2022,TV-14,90 min,Romance
+s123,Movie,Fading Light 1,K. Lee,United Kingdom,2006,PG-13,3 Seasons,Drama
+s124,TV Show,Electric Dreams 4,A. Sharma,Australia,2024,TV-14,90 min,Drama
+s125,TV Show,Hidden City 2,K. Lee,Spain,2008,PG,1 Season,Action
+s126,TV Show,Hidden City 4,J. Smith,Germany,2007,PG,90 min,Drama
+s127,Movie,Neon Nights 4,M. Dubois,United States,2010,R,110 min,Action
+s128,Movie,Ocean Depths 2,A. Sharma,India,2011,PG,3 Seasons,Action
+s129,TV Show,Parallel Worlds 2,M. Dubois,France,2024,PG-13,2 Seasons,Comedy
+s130,TV Show,Broken Signal 5,S. Garcia,India,2010,TV-MA,1 Season,Action
+s131,Movie,Final Echo 3,L. Martin,Spain,2012,PG-13,3 Seasons,Romance
+s132,TV Show,Dark Streets 5,S. Garcia,United States,2015,TV-14,100 min,Romance
+s133,TV Show,Burning Sky 5,L. Martin,Japan,2024,TV-14,100 min,Drama
+s134,Movie,Electric Dreams 5,L. Martin,Australia,2012,R,90 min,Thriller
+s135,TV Show,Golden Empire 2,M. Dubois,India,2006,TV-MA,2 Seasons,Drama
+s136,Movie,Iron Justice 4,S. Garcia,India,2005,TV-14,100 min,Comedy
+s137,TV Show,Parallel Worlds 1,K. Lee,Australia,2009,TV-14,1 Season,Sci-Fi
+s138,Movie,Hidden City 2,R. Tanaka,India,2019,TV-MA,3 Seasons,Sci-Fi
+s139,TV Show,Cold Frontier 5,S. Garcia,Japan,2007,PG-13,1 Season,Documentary
+s140,TV Show,Iron Justice 5,S. Garcia,France,2017,R,100 min,Drama
+s141,TV Show,Midnight Train 4,L. Martin,South Korea,2008,TV-MA,1 Season,Action
+s142,Movie,Golden Empire 1,R. Tanaka,Germany,2015,R,110 min,Thriller
+s143,Movie,Winter Lake 1,A. Sharma,South Korea,2021,PG,100 min,Sci-Fi
+s144,TV Show,Dark Streets 1,K. Lee,Spain,2020,TV-MA,110 min,Romance
+s145,Movie,Golden Empire 4,K. Lee,Australia,2008,R,110 min,Thriller
+s146,TV Show,Midnight Train 3,L. Martin,France,2009,PG,2 Seasons,Action
+s147,Movie,Crimson Road 1,D. Brown,Canada,2019,TV-14,3 Seasons,Drama
+s148,Movie,Dark Streets 4,S. Garcia,Japan,2017,TV-MA,3 Seasons,Documentary
+s149,Movie,Dark Streets 4,S. Garcia,United States,2017,PG-13,100 min,Romance
+s150,TV Show,Cold Frontier 2,S. Garcia,Canada,2017,PG-13,90 min,Comedy
+s151,TV Show,Silent Code 5,D. Brown,Canada,2011,PG,3 Seasons,Comedy
+s152,TV Show,Last Horizon 5,A. Sharma,United States,2006,PG-13,1 Season,Romance
+s153,TV Show,Electric Dreams 2,A. Sharma,Germany,2021,R,110 min,Comedy
+s154,Movie,Fading Light 4,R. Tanaka,India,2021,PG,2 Seasons,Comedy
+s155,Movie,Broken Signal 3,A. Sharma,Japan,2015,PG-13,100 min,Romance
+s156,Movie,Ocean Depths 2,R. Tanaka,Spain,2022,TV-14,110 min,Action
+s157,TV Show,Cold Frontier 1,J. Smith,United Kingdom,2009,TV-MA,3 Seasons,Romance
+s158,Movie,Cold Frontier 1,M. Dubois,India,2022,R,110 min,Drama
+s159,Movie,Silent Code 2,R. Tanaka,Canada,2022,PG-13,90 min,Documentary
+s160,Movie,Golden Empire 1,S. Garcia,Japan,2011,PG-13,2 Seasons,Action
+s161,Movie,Winter Lake 4,D. Brown,India,2007,PG-13,1 Season,Horror
+s162,TV Show,Golden Empire 5,J. Smith,Canada,2015,TV-14,2 Seasons,Romance
+s163,TV Show,Parallel Worlds 5,J. Smith,Japan,2019,TV-14,2 Seasons,Thriller
+s164,Movie,Ocean Depths 5,K. Lee,United Kingdom,2024,PG-13,3 Seasons,Thriller
+s165,TV Show,Cold Frontier 2,K. Lee,Spain,2007,PG,1 Season,Comedy
+s166,Movie,Final Echo 1,R. Tanaka,Canada,2014,TV-MA,3 Seasons,Thriller
+s167,Movie,Dark Streets 4,D. Brown,Australia,2023,PG,2 Seasons,Sci-Fi
+s168,Movie,Hidden City 2,K. Lee,Australia,2008,TV-14,100 min,Drama
+s169,TV Show,Cold Frontier 1,J. Smith,Canada,2010,TV-MA,2 Seasons,Action
+s170,TV Show,Ocean Depths 3,A. Sharma,South Korea,2018,TV-MA,2 Seasons,Comedy
+s171,Movie,Fading Light 4,K. Lee,Canada,2011,TV-MA,100 min,Sci-Fi
+s172,TV Show,Neon Nights 4,M. Dubois,Canada,2008,PG,90 min,Romance
+s173,Movie,Crimson Road 2,L. Martin,Canada,2017,PG,110 min,Documentary
+s174,TV Show,Dark Streets 2,J. Smith,South Korea,2019,PG-13,110 min,Action
+s175,Movie,Ocean Depths 5,R. Tanaka,United States,2020,R,110 min,Sci-Fi
+s176,Movie,Shadow Games 4,L. Martin,South Korea,2015,PG,90 min,Sci-Fi
+s177,TV Show,Burning Sky 1,A. Sharma,Germany,2005,R,100 min,Comedy
+s178,Movie,Crimson Road 4,J. Smith,United Kingdom,2012,TV-MA,100 min,Action
+s179,TV Show,Final Echo 5,R. Tanaka,India,2011,TV-14,90 min,Comedy
+s180,TV Show,Ocean Depths 3,D. Brown,United Kingdom,2020,PG-13,110 min,Sci-Fi
+s181,TV Show,Hidden City 5,L. Martin,Germany,2024,PG,100 min,Action
+s182,Movie,Hidden City 2,L. Martin,Australia,2010,R,1 Season,Sci-Fi
+s183,Movie,Last Horizon 5,S. Garcia,Germany,2021,TV-14,100 min,Thriller
+s184,TV Show,Hidden City 5,L. Martin,India,2019,TV-14,110 min,Documentary
+s185,Movie,Golden Empire 4,M. Dubois,Japan,2014,TV-MA,3 Seasons,Horror
+s186,Movie,Ocean Depths 4,R. Tanaka,France,2008,PG,1 Season,Sci-Fi
+s187,TV Show,Dark Streets 1,A. Sharma,United Kingdom,2019,R,100 min,Sci-Fi
+s188,TV Show,Ocean Depths 2,L. Martin,Australia,2015,TV-MA,110 min,Thriller
+s189,TV Show,Fading Light 3,K. Lee,South Korea,2005,PG-13,1 Season,Action
+s190,TV Show,Silent Code 4,J. Smith,India,2009,TV-14,110 min,Horror
+s191,Movie,Burning Sky 5,J. Smith,Germany,2010,R,2 Seasons,Horror
+s192,Movie,Midnight Train 4,J. Smith,Japan,2015,TV-MA,110 min,Romance
+s193,Movie,Dark Streets 1,M. Dubois,India,2019,TV-14,3 Seasons,Romance
+s194,TV Show,Final Echo 2,K. Lee,South Korea,2015,TV-MA,110 min,Comedy
+s195,TV Show,Shadow Games 5,K. Lee,India,2024,PG-13,1 Season,Horror
+s196,TV Show,Lost Kingdom 5,A. Sharma,Japan,2015,PG-13,2 Seasons,Drama
+s197,TV Show,Broken Signal 1,R. Tanaka,France,2013,TV-14,90 min,Thriller
+s198,TV Show,Ocean Depths 5,L. Martin,Australia,2024,PG-13,2 Seasons,Romance
+s199,Movie,Silent Code 1,K. Lee,Australia,2012,R,2 Seasons,Action
+s200,Movie,Parallel Worlds 5,R. Tanaka,Japan,2008,TV-14,110 min,Comedy
