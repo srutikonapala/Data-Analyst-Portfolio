@@ -36,3 +36,17 @@ Welcome to my Data Analyst Portfolio! This repository showcases my data analysis
 **Tools Used:**
   - Power BI
   - Microsoft Excel
+
+###3.Rtail Sales Analysis 
+  - Electronics generated approximately 58% of the total revenue.
+  - AC was the highest revenue-generating product.
+  - March recorded the highest monthly sales.
+  - Cash payments contributed more revenue than credit payments.
+  - Furniture and Home Appliances generated lower revenue compared to Electronics.
+
+**Tools Used:*
+ - Power BI
+ - Microsoft Excel
+ - DAX
+    
+    
