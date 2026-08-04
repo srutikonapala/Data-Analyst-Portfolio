@@ -44,7 +44,7 @@ Welcome to my Data Analyst Portfolio! This repository showcases my data analysis
   - Cash payments contributed more revenue than credit payments.
   - Furniture and Home Appliances generated lower revenue compared to Electronics.
 
-**Tools Used:*
+**Tools Used:**
  - Power BI
  - Microsoft Excel
  - DAX
