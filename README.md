@@ -28,6 +28,7 @@ Welcome to my Data Analyst Portfolio! This repository showcases my data analysis
   - Content is distributed across multiple countries, with Japan having the highest number of titles in this dataset. 
   - Content releases fluctuate by year, with a noticeable increase in the latest year shown.
   - Action, comedy, Romance, and Sci-Fi are among the most represented genres in the dataset.
+
 **Tools Used:**
   - Power BI
   - Microsoft Excel
