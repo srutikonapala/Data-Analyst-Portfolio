@@ -14,9 +14,12 @@ Welcome to my Data Analyst Portfolio! This repository showcases my data analysis
 ##Projects
 
 ###1.E-commerce Sales Analysis
-- Built an interactive Power BI dashboard.
-- Analyzed sales, profit, product, and regional performance.
-- Created KPIs and business insights.
+- Electronics contributed approximately 50% of total sales, making it the highest-performing category.
+- Accessories accounted for nearly 40% of total sales, while Office products contributed around 10%.
+- Camera generated the highest sales among all products, followed by Monitor and Printer.
+- The West region recorded the highest sales, while regional performance remained relatively balanced overall.
+- The business achieved 11M in total sales, 1.84M in total profit, and an average profit margin of 17.3%.
+- Monthly sales and profit remained stable throughout the year, with profit peaking around May.
 
 **Tools Used:**
 - Power BI
