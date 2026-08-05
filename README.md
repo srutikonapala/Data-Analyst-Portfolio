@@ -1,19 +1,21 @@
 # Data-Analyst-Portfolio
 Hi, I'm Sruti.
-Welcome to my Data Analyst Portfolio! This repository showcases my data analysis project built using Excel, SQL, and Power BI.
+A final-year B.com student building hands-on data analysis skills through Excel, SQL, and Power BI. 
+This repository showcases three end-to-end dashboard projects, from raw data to business recommendations.
 
-##Skills
+## Skills
 - Microsoft Excel
 - SQL
 - Power BI
+- DAX
 - Data Cleaning
 - Data Visualization
 - Dashboard Development
 - Business Analysis
 
-##Projects
+## Projects
 
-###1.E-commerce Sales Analysis
+### 1.E-commerce Sales Analysis
 - Electronics contributed approximately 50% of total sales, making it the highest-performing category.
 - Accessories accounted for nearly 40% of total sales, while Office products contributed around 10%.
 - Camera generated the highest sales among all products, followed by Monitor and Printer.
@@ -25,19 +27,17 @@ Welcome to my Data Analyst Portfolio! This repository showcases my data analysis
 - Power BI
 - Microsoft Excel
 
-###2.Netflix Content Analysis
-  - TV shows account for 52% (104) of the total content, while Movies account for 48% (96).
-  - The dataset contains an average of 10 titles released per year.
-  - Japan has the highest number of titles among the selected countries.
-  - PG-13 and TV-14 are the most common content ratings.
-  - Action, comedy, Romance, and Sci-Fi are among the most represented genres.
-  - The number of titles released varies across the years, with a noticeable increase in the latest year.
+### 2.Netflix Content Analysis
+  - TV shows made up 52% of content vs  48% Movies- a near-even split, suggesting content strategy should continue balancing both formats rather than favoring one.
+  - Japan has the highest number of titles among countries analyzed- recommend flagging Japan as a priority market for continued content investment.
+  - PG-13 and TV-14 are the most common content ratings, with Action, Comedy, Romance, and Sci-Fi as leading genres- useful signal for where to focus new content acquisition.
+  - Title releases increased noticeably in the most recent year- recommend monitoring whether this growth pace is sustainable or reflects a one-time catalog push.
 
 **Tools Used:**
   - Power BI
   - Microsoft Excel
 
-###3.Retail Sales Analysis 
+### 3.Retail Sales Analysis 
   - Electronics generated approximately 58% of the total revenue.
   - AC was the highest revenue-generating product.
   - March recorded the highest monthly sales.
