@@ -48,5 +48,20 @@ This repository showcases three end-to-end dashboard projects, from raw data to 
  - Power BI
  - Microsoft Excel
  - DAX
-    
+### 4. Customer Purchase Analysis
+**Objective:** Analyze customer
+purchasing behavior, spending patterns, and product performance using SQL.
+
+**Tools Used:** MySQL
+
+**Key Analysis:** 
+ - Calculated total orders, total revenue and average order value.
+ - Identified top-performing products and Categories by revenue.
+ - Analyzed customer spending and ranked customers by total spending.
+ - Identified customers who have not placed any orders.
+ - Analyzed monthly revenue trends.
+ - Used JOINs, Common Table Expressions(CTEs), aggregate functions, and window functions.
+
+**SQL File:** [
+
     
