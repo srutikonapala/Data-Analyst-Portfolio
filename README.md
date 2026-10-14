@@ -62,6 +62,6 @@ purchasing behavior, spending patterns, and product performance using SQL.
  - Analyzed monthly revenue trends.
  - Used JOINs, Common Table Expressions(CTEs), aggregate functions, and window functions.
 
-**SQL File:** [
+**SQL File:** [customer_purchase_analysis.sql] 
 
     
